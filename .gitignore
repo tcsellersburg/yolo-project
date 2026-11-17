@@ -1,0 +1,4 @@
+venv/
+known_faces/
+result.jpg
+*.pt
